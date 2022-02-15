@@ -1,15 +1,22 @@
 [
     {
-        "username": "pippo",
-        "score": 200
+        "title": "iliade",
+        "author": "omero",
+        "price": 12.50
     },
     {
-        "username": "pluto",
-        "score": 300
+        "title": "odissea",
+        "author": "omero",
+        "price": 15.50
     },
     {
-        "username": "paperino",
-        "score": 100
+        "title": "il principe",
+        "author": "machiavelli",
+        "price": 9.50
+    },
+    {
+        "title": "la divina commedia",
+        "author": "dante",
+        "price": 19.50
     }
-
 ]
